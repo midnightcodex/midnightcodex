@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ayush Verma
-- 👀 I’m interested in coding, analytics and exploring.
-- 🌱 I’m currently learning data science
+- 👀 I’m interested in coding, analytics, and exploring.
+- 🌱 I’m currently CTO @ GreenSupply Agro Pvt. Ltd.
 - 📫 How to reach me - mail - ayush1stacc@gmail.com
 
 <!---
